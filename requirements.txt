@@ -1,1 +1,5 @@
-%pip install matplotlib scikit-learn pandas
+pandas
+matplotlib
+scikit-learn
+seaborn
+jupyter
