@@ -1,3 +1,0 @@
-## Kolom Dataset
-  Kolom yang dianalisis dalam project ini adalah QUANTITYORDERED, PRICEEACH, SALES, PRODUCTLINE, CITY
-  Untuk Kolom Sales didapatkan dari QUANTITYORDERED * PRICEEACH
