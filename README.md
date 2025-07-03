@@ -11,3 +11,14 @@ pip install -r requirements.txt
 Di dalam folder Dataset/ `sales_data_sample.csv`
 Kolom Dataset yang dianalisis adalah QUANTITYORDERED, PRICEEACH, SALES, PRODUCTLINE, CITY. 
 Untuk Kolom Sales didapatkan dari QUANTITYORDERED * PRICEEACH
+
+## Notebook
+- Import dan eksplorasi data
+- Preprocessing
+- Penentuan jumlah cluster (elbow method)
+- Visualisasi hasil clustering
+- 
+## Cara Menjalankan
+1. Clone repo ini atau download file `.ipynb`
+2. Jalankan Jupyter Notebook
+3. Buka `K-Means.ipynb` dan jalankan semua cell
