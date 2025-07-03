@@ -8,4 +8,5 @@ Hasilnya divisualisasikan dalam scatter plot dan dievaluasi menggunakan metrik i
 pip install -r requirements.txt
 
 ## Dataset
-Di dalam folder data/ `sales_data_sample.csv` 
+Di dalam folder data/ `sales_data_sample.csv`
+Kolom Dataset yang dianalisis dalam project ini adalah QUANTITYORDERED, PRICEEACH, SALES, PRODUCTLINE, CITY. Untuk Kolom Sales didapatkan dari QUANTITYORDERED * PRICEEACH
