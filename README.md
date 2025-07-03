@@ -16,7 +16,7 @@ Untuk Kolom Sales didapatkan dari QUANTITYORDERED * PRICEEACH
 - Import dan eksplorasi data
 - Preprocessing
 - Penentuan jumlah cluster (elbow method)
-- Visualisasi hasil clustering
+- Visualisasi hasil clustering (dalam docs)
   
 ## Cara Menjalankan
 1. Clone repo ini atau download file `.ipynb`
